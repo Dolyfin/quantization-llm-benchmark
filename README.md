@@ -23,6 +23,7 @@ My budget and local hosting abilities is limited. I will test smaller models or 
 
 # Models for testing
 ### [Qwen3-4B-Instruct-2507-GGUF](https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF)
+Context sizes: 4096, 8192, 16384, 32768, 65536, 131072, 262144  
 F16  
 UD-Q8_K_XL  
 UD-Q6_K_XL  
@@ -32,11 +33,10 @@ UD-Q4_K_XL
 Q4_K_S  
 IQ4_NL  
 UD-Q3_K_XL  
-Q3_K_S  
 UD-IQ3_XXS  
 UD-IQ2_M  
 
-### Qwen3-VL-30B-A3B-Instruct (not yet)
+### Qwen3-VL-30B-A3B-Instruct (soon^tm)
 
 # Results
 Preliminary HistoryQA results will be ready soon.

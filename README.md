@@ -23,18 +23,18 @@ My budget and local hosting abilities is limited. I will test smaller models or 
 
 # Models for testing
 ### [Qwen3-4B-Instruct-2507-GGUF](https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF)
-F16
-UD-Q8_K_XL
-UD-Q6_K_XL
-UD-Q5_K_XL
-Q5_K_S
-UD-Q4_K_XL
-Q4_K_S
-IQ4_NL
-UD-Q3_K_XL
-Q3_K_S
-UD-IQ3_XXS
-UD-IQ2_M
+F16  
+UD-Q8_K_XL  
+UD-Q6_K_XL  
+UD-Q5_K_XL  
+Q5_K_S  
+UD-Q4_K_XL  
+Q4_K_S  
+IQ4_NL  
+UD-Q3_K_XL  
+Q3_K_S  
+UD-IQ3_XXS  
+UD-IQ2_M  
 
 ### Qwen3-VL-30B-A3B-Instruct (not yet)
 

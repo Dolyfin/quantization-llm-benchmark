@@ -7,7 +7,7 @@ I didn't find many results that filled up a models context in a reproducable way
 I'm working on 3 private benchmarks to test the abilities of a model to accurately perform tasks that is expected of them. Since we are running local models, it's important to see the effects of quantization on longer performance, especially on longer contexts.
 
 # Benchmarks
-## HistoryQA
+## HistoryQA (1580 Questions)
 Consists of Question and example Answer paring, as well as the marking schema to see if the answer from the LLM has mentioned the factual events, remembering the key facts. I would expect smaller models performance to drop off at a small but noticable rate when quantized and filling up longer context.
 
 ## PythonMath (WIP)
